@@ -3,9 +3,9 @@
 
 ## Description 
       
-This is my portfolio that I made with react for Georgia Tech coding bootcamp. it uses 
+This is my portfolio that I made with react for Georgia Tech coding bootcamp.
 
-This app is deployed to Heroku: https://pwa-notetake.herokuapp.com/
+This app is deployed to Heroku: https://war-nugget.github.io/reactportfolio/
 
 ## Table of Contents
 * [Installation](#installation)
@@ -24,8 +24,7 @@ Install the follwing node modules through the termial:
 
 ## Usage 
 
-- Run ```npm run start``` in the terminal 
-- Open insomnia on ```http://localhost:3001/``` 
+- Run ```npm run start``` in the terminal and react will open in a new tab 
 
     
 ## Contributing
@@ -39,9 +38,11 @@ Any contributions are welcome as long as they are pushed to a seperate branch fo
 - HTML
 - CSS
 - Javascript
-- NodeJS
-- ExpressJS
-
+- ReactJS
+- JQuery fittext
+- Waypoint.js
+- Fontello
+- FontAwesome
     
 There are no tests available
     
