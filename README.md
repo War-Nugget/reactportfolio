@@ -5,7 +5,7 @@
       
 This is my portfolio that I made with react for Georgia Tech coding bootcamp.
 
-This app is deployed to Heroku: https://war-nugget.github.io/reactportfolio/
+This app is deployed to GH pages: https://war-nugget.github.io/reactportfolio/
 
 ## Table of Contents
 * [Installation](#installation)
