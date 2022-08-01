@@ -3,12 +3,12 @@ let resumeData = {
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/ruben-castro-66a234230/",
+          "url":"https://www.linkedin.com/in/sahil-patel-20b07a157/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"https://github.com/RubenCastroCoding",
+          "url":"https://github.com/War-Nugget",
           "className":"fa fa-github"
         },
       ],
