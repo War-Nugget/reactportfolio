@@ -10,7 +10,7 @@ export default class Porfolio extends Component {
           <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                    <a href="#modal-01">
+                    <a href="https://war-nugget.github.io/Wildlife-Census/">
                       <img src="images/project1.jpg" className="item-img" alt="Wildlife"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
@@ -20,7 +20,7 @@ export default class Porfolio extends Component {
                     </a>
                   </div>
                 </div>
-                  <div className="columns portfolio-item">
+                 <div className="columns portfolio-item">
                   <div className="item-wrap">
                     <a href="#modal-01">
                       <img src="images/project2.jpg" className="item-img" alt="hotel"/>
@@ -31,19 +31,19 @@ export default class Porfolio extends Component {
                       </div>
                     </a>
                   </div>
-                </div>
-           <div className="columns portfolio-item">
+                </div> 
+      <div className="columns portfolio-item">
                   <div className="item-wrap">
-                    <a href="#modal-01">
-                      <img src="images/project2.jpg" className="item-img" alt="hotel"/>
+                    <a href="https://war-nugget.github.io/Wildlife-Census/">
+                      <img src="images/project1.jpg" className="item-img" alt="Wildlife"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
-                          <h5>HVAC Estimator</h5>            
+                          <h5>Wildlife Cencus</h5>            
                         </div>
                       </div>
                     </a>
                   </div>
-                
+                </div>
           </div>
         </div>
       </div>
