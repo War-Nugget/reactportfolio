@@ -90,6 +90,7 @@
       controlNav: true,
       directionNav: false,
       smoothHeight: true,
+      
    });
 });
 
