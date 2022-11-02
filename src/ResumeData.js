@@ -35,23 +35,6 @@ let resumeData = {
       
     }
   ],
-  // "work":[
-  //   {
-  //     "CompanyName":"Some Company",
-  //     "specialization":"Some specialization",
-  //     "MonthOfLeaving":"Jan",
-  //     "YearOfLeaving":"2018",
-  //     "Achievements":"Some Achievements"
-  //   },
-  //   {
-  //     "CompanyName":"Some Company",
-  //     "specialization":"Some specialization",
-  //     "MonthOfLeaving":"Jan",
-  //     "YearOfLeaving":"2018",
-  //     "Achievements":"Some Achievements"
-  //   }
-  // ],
-
   "portfolio":[
     {
       "name":"Wildlife Census",
