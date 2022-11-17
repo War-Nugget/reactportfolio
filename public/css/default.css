@@ -120,8 +120,6 @@ table {
 /* ------------------------------------------------------------------ */
 /* c. Default and Basic Styles
       Adapted from:
-      Skeleton CSS Framework - http://www.getskeleton.com/
-      Typeplate Typographic Starter Kit - http://typeplate.com/
 /* ------------------------------------------------------------------ */
 
 /*  1. Basic  ------------------------------------------------------- */
@@ -316,11 +314,6 @@ li p { }
 
 /* ---------------------------------------------------------------------
 /*  Stats Tab Markup
-
-    <ul class="stats-tabs">
-		<li><a href="#">[value]<b>[name]</b></a></li>
-	 </ul>
-
     Extend this object into your markup.
 /*
 /* --------------------------------------------------------------------- */
@@ -770,7 +763,6 @@ properly.
 /* ------------------------------------------------------------------ */
 
 /*  1. Clearing
-    (http://nicolasgallagher.com/micro-clearfix-hack/
 --------------------------------------------------------------------- */
 
 .cf:before,
